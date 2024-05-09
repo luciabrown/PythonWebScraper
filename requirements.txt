@@ -2,3 +2,6 @@ requests
 beautifulsoup4
 bs4
 lxml
+re
+pandas
+openpyxl
